@@ -1,0 +1,6 @@
+# Ignore folder containing test images
+known_faces/
+
+# Ignore test image in local dir
+*.jpg
+*.png
